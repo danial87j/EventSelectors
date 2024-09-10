@@ -52,5 +52,5 @@ document.addEventListener("keyup", function (event) {
   main.style.top = currentTop + "px";
 });
 
-// تنظیمات CSS برای موقعیت مطلق
+
 main.style.position = "relative";
